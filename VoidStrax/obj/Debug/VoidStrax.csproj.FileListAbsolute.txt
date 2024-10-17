@@ -1,0 +1,9 @@
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\bin\Debug\VoidStrax.exe.config
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\bin\Debug\VoidStrax.exe
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\bin\Debug\VoidStrax.pdb
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.exe
+C:\Users\Dmitry\source\repos\VoidStrax\VoidStrax\obj\Debug\VoidStrax.pdb

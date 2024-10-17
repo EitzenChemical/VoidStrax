@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxEmployee\\VoidStraxEmployee.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\VoidStraxAdmin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\VoidStraxAdmin.csproj",
+        "projectName": "VoidStraxAdmin",
+        "projectPath": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\VoidStraxAdmin.csproj",
+        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MetroFramework": {
+              "target": "Package",
+              "version": "[1.2.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxEmployee\\VoidStraxEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxEmployee\\VoidStraxEmployee.csproj",
+        "projectName": "VoidStraxEmployee",
+        "projectPath": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxEmployee\\VoidStraxEmployee.csproj",
+        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxEmployee\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\VoidStraxAdmin.csproj": {
+                "projectPath": "C:\\Users\\Dmitry\\source\\repos\\VoidStrax\\VoidStraxAdmin\\VoidStraxAdmin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MetroFramework": {
+              "target": "Package",
+              "version": "[1.2.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
